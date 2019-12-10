@@ -1,6 +1,6 @@
 {
   "name": "quill-source-code-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quill source code button",
   "main": "lib/quill-source-code-button.js",
   "types": "lib/index.d.ts",
