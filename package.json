@@ -21,6 +21,16 @@
     "dist",
     "es"
   ],
+  "keywords": [
+    "quill"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inboundasia/quill-source-code-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/inboundasia/quill-source-code-button/issues"
+  },
   "author": "Roli Chung",
   "license": "MIT",
   "devDependencies": {

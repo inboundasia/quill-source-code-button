@@ -1,5 +1,9 @@
 # Quill source code button
 
+```
+npm install quill-source-code-button
+```
+
 ## Register module
 
 ```js
