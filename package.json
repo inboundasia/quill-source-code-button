@@ -35,7 +35,7 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "1.19.1",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "tslint": "5.20.1",
     "tslib": "1.10.0",
     "tslint-config-prettier": "1.18.0",
